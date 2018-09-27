@@ -9,4 +9,6 @@ post_date: 2018-09-26 22:40:38
 ---
 
 
-![A test image](https://github.com/sdzentner/blog_test/raw/master/pics/Summertime_sm.jpg)
+![Summertime, and the living's easy](https://github.com/sdzentner/blog_test/raw/master/pics/Summertime_sm.jpg)
+
+![Aidan had a hard time putting the tent up](https://github.com/sdzentner/blog_test/raw/master/pics/Camping2.jpg)
