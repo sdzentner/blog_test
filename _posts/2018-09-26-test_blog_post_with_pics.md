@@ -1,7 +1,7 @@
 ---
 ID: 9493
 post_title: test_blog_post_with_pics
-author: Dan
+author: Dan Behrendt
 post_excerpt: ""
 layout: post
 permalink: >
