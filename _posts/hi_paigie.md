@@ -1,7 +1,8 @@
 ---
-post_title: love
+post_title: Love!
 author: Stephen
-layout: post 
+post_excerpt: "This is about love"
+layout: post
 published: true
 ---
 
