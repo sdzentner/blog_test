@@ -1,11 +1,11 @@
 ---
-ID: 9502
+ID: 14
 post_title: Last test for Today
-post_author: user
+author: Stephen
 post_excerpt: ""
 layout: post
 permalink: >
-  http://13.77.138.65/2018/09/27/last-test-for-today/
+  http://steveblogtest.azurewebsites.net/2018/09/27/last-test-for-today/
 published: true
 post_date: 2018-09-27 00:00:00
 ---

@@ -1,11 +1,11 @@
 ---
-ID: 9493
+ID: 10
 post_title: test_blog_post_with_pics
-author: Stephen Zentner
+author: Stephen
 post_excerpt: ""
 layout: post
 permalink: >
-  http://13.77.138.65/2018/09/26/test_blog_post_with_pics/
+  http://steveblogtest.azurewebsites.net/2018/09/26/test_blog_post_with_pics/
 published: true
 post_date: 2018-09-26 22:40:38
 ---
