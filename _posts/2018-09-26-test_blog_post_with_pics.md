@@ -21,6 +21,4 @@ this is not right..
 
 no im not working
 
-you should be working. you work as a pull, why not as a push?
-
-hm..
+push push push
