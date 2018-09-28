@@ -1,7 +1,6 @@
 ---
-post_title: Love!
-author: Stephen
-post_excerpt: "This is about love"
+post_title: love paigie
+author: Stephen Zentner
 layout: post
 published: true
 ---
