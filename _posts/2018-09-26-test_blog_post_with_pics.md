@@ -1,7 +1,7 @@
 ---
 ID: 9493
 post_title: test_blog_post_with_pics
-author: User
+author: user@example.com
 post_excerpt: ""
 layout: post
 permalink: >

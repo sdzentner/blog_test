@@ -1,7 +1,7 @@
 ---
 ID: 9502
 post_title: Last test for Today
-author: Stephen Zentner
+author: user@example.com
 post_excerpt: ""
 layout: post
 permalink: >
